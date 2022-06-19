@@ -1,8 +1,6 @@
 /*
 	***REMOVED*** # 1
-	***REMOVED***
 	***REMOVED*** ***REMOVED***
-	***REMOVED***)
 
 */
 
@@ -526,8 +524,8 @@ class ItemsToPurchase
 
 /*------------------------------------------------------------
 	Programming by : 
-			***REMOVED*** ***REMOVED*** (***REMOVED***)
-			***REMOVED***)
+			***REMOVED*** ***REMOVED*** 
+		
 
 --------------------------------------------------------------*/
 
